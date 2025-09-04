@@ -1,2 +1,2 @@
-# PGLSS2CNet
-Source code for paper.
+# IGFNet
+Source code for paper *IGFNet*.
